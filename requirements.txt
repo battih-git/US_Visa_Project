@@ -22,4 +22,8 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+setuptools
 -e .
+
+f8Ca68tSyWerfX2w
+huzefabattiwalahb_db_user
